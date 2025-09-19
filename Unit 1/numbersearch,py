@@ -1,0 +1,33 @@
+#Number = [1, 5, 10, 20, 39, 48, 83, 89, 72,90]
+
+#def minMax():
+#x = min(Number)
+#y = max(Number)
+
+
+#print(Number[min])
+#print(Number[max])
+def reverseString(word):
+    text = word[::-1]
+    print(text)
+
+    #newWord = list(word)
+    #print(newWord.reverse())
+    print(newWord)
+    
+    reverseString('anything')
+
+
+
+
+
+
+
+
+#def reverseString(word):
+
+
+#"Take" == ("ekaT")
+
+
+#print(reversed("Take"))
