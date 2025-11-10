@@ -32,4 +32,3 @@ print(stats)
 "Jared Goff had the highest passing yards at 4942"
 
 # 4. which player had the highest rushing yards in week 1 and in week 17?
-"Jayden Reed(week 1), and R.Pearsall"
