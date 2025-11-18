@@ -37,7 +37,4 @@ print(txt)
 # it correct the program should congratulate them, stop, and tell them how 
 # many attempts they made.
 
-import random
 
-def guesstheNumber():
-    

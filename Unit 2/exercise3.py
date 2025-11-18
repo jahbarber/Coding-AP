@@ -12,7 +12,7 @@ from helperFunctions import weeklyPlayerStats
 # NOTE = you will need to pass the position, year and week in as an agrument
 # position example : quarterback = 'QB', runnerback = 'RB'
 
-exampleData = weeklyPlayerStats(2024,'WR')
+exampleData = weeklyPlayerStats(2024,'QB')
 
 print(exampleData)
 
