@@ -1,10 +1,6 @@
 from helperFunctions import weeklyPlayerStats, plot_player_stat, plot_weekly_player_stats
 import matplotlib.pyplot as plt
 
-stats = weeklyPlayerStats(2024, "WR", 17,)  
-print(stats)
-# plot_player_stat(stats, stat="passing_yards", top_n=5, title="QB Passing yards (2024)", save_path="Qb_passing_yards_2024.png"  )
-
 
 
 
