@@ -1,4 +1,4 @@
-from helperLogic import get_season_totals_by_position, plot_position_stat_bar, plot_player_stat_by_week, get_player_stats
+from Ratings.helperLogic import get_season_totals_by_position, plot_position_stat_bar, plot_player_stat_by_week, get_player_stats
 
 'ran through- lost the touch- not how they used to be out- out of prime'
 'this player is on the decline'
